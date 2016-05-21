@@ -1,6 +1,8 @@
 ---
-title: 'Correlation Between Soil Description and Classification Systems'
-author: 'Alessandro Samuel-Rosa'
+title: "Correlation Between Soil Description and Classification Systems"
+author: "Alessandro Samuel-Rosa"
+date: "21 May 2016"
+output: html_document
 ---
 
 Soil description and classification nomenclature evolve with time. Updating such nomenclature requires that
