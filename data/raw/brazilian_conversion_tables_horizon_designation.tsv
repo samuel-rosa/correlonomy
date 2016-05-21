@@ -1,0 +1,32 @@
+SNLCS (<1986)	Santos et al. (2013)	Simplified description (Santos et al., 2013)	FAO (2006)	Simplified description (FAO, 2006)	Schoeneberger et al. (2012)	Simplified description (Schoeneberger et. al, 2012)
+O	O	Well aerated organic surface horizon or layer	O	Well aerated organic surface horizon or layer	O	Organic materials
+O1	Oo, Ood		O???		O???	
+O2	Od, Odo		O???		O???	
+-	H	Water-saturated organic surface horizon or layer	H	Water-saturated organic surface horizon or layer	O	Organic materials
+A	A	Mineral horizons that formed at the surface or below an O or H horizon	A	Mineral horizons that formed at the surface or below an O horizon	A	Mineral; organic matter accumulation, loss of Fe, Al, clay.
+-	A/O	Intermediate horizon. Discrete parts of A and O.	A/O	Intermediate horizon. Discrete parts of A and O.	A/O	Intermediate horizon. Discrete parts of A and O.
+-	A/H???					
+A1	A	Mineral horizons that formed at the surface or below an O or H horizon	A	Mineral horizons that formed at the surface or below an O horizon	A	Mineral; organic matter accumulation, loss of Fe, Al, clay.
+A2	E	Mineral horizon. Eluviation.	E	Mineral horizon. Loss of silicate clay, iron, aluminium, or some combination of these.	E	Mineral; some loss of Fe, Al, clay, or organic matter.
+A3	AB ou EB	Transitional horizon. Dominance of A or E over B.	AB ou EB	Transitional horizon. Dominance of A or E over B.	AB ou EB	Transitional horizon. Dominance of A or E over B.
+AB	- (AB ou EB???)	 				
+-	A/B	Intermediate horizon. Discrete parts of A and B.	A/B	Intermediate horizon. Discrete parts of A and B.	A/B	Intermediate horizon. Discrete parts of A and B.
+A&B	E/B	Intermediate horizon. Discrete parts of E and B.	E/B	Intermediate horizon. Discrete parts of E and B.	E/B	Intermediate horizon. Discrete parts of E and B.
+AC	AC	Transitional horizon.				
+A/C	A/C	Intermediate horizon. Discrete parts of A and C.	A/C	Intermediate horizon. Discrete parts of A and C.	A/C	Intermediate horizon. Discrete parts of A and C.
+B	B		B		B	Subsurface accumulations of clay, Fe, humus, etc; or loss of carbonate; or subsurface soil structure.
+B1	BA or BE	Transitional horizon. Dominance of B over A or E.	BA or BE	Transitional horizon. Dominance of B over A or E.	BA or BE	Transitional horizon. Dominance of B over A or E.
+-	B/A	Intermediate horizon. Discrete parts of B and A.	B/A	Intermediate horizon. Discrete parts of B and A.	B/A	Intermediate horizon. Discrete parts of B and A.
+B&A	B/E	Intermediate horizon. Discrete parts of B and E.	B/E	Intermediate horizon. Discrete parts of B and E.	B/E	Intermediate horizon. Discrete parts of B and E.
+B2	B		B		B	Subsurface accumulations of clay, Fe, humus, etc; or loss of carbonate; or subsurface soil structure.
+B3	BC	Transitional horizon. Dominance of B over C.	BC	Transitional horizon. Dominance of B over C.	BC	Transitional horizon. Dominance of B over C.
+-	B/C	Intermediate horizon. Discrete parts of B and C.	B/C	Intermediate horizon. Discrete parts of B and C.	B/C	Intermediate horizon. Discrete parts of B and C.
+-	B/R	Intermediate horizon. Discrete parts of B and R.	B/R	Intermediate horizon. Discrete parts of B and R.	B/R	Intermediate horizon. Discrete parts of B and R.
+-	F		Bm???		Bm???	
+C	C		C	Layers that are little affected by pedogenetic processes.	C	
+C1	CB (CA???)	Transitional horizon. Dominance of C over B.	CB	Transitional horizon. Dominance of C over B.	CB	Transitional horizon. Dominance of C over B.
+-	(C/A???)					
+-	C/B	Intermediate horizon. Discrete parts of C and B.	C/B	Intermediate horizon. Discrete parts of C and B.	C/B	Intermediate horizon. Discrete parts of C and B.
+-	C/R	Intermediate horizon. Discrete parts of C and R.	C/R	Intermediate horizon. Discrete parts of C and R.	C/R	Intermediate horizon. Discrete parts of C and R.
+R	R	Layer of consolidated mineral material	R	Hard bedrock underlying the soil.	R	
+-	B/C/R	Intermediate horizon. Discrete parts of B, C, and R.	B/C/R	Intermediate horizon. Discrete parts of B, C, and R.	B/C/R	Intermediate horizon. Discrete parts of B, C, and R.
