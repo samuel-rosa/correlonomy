@@ -1,0 +1,94 @@
+country_id	taxon_source_BR2006	level_source	code_source	system_destination	year_destination	taxon_destination_FAO	level_destination	code_destination	comment	reference	expert
+BR	Neossolo	1	R	FAO/UNESCO	1974	unkown	1	unkown	Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Neossolo Quartzarênico	2	RQ	FAO/UNESCO	1974	Arenosol	1	AR			Alessandro Samuel Rosa
+BR	Neossolo Regolítico	2	RR	FAO/UNESCO	1974	Regosol	1	RG			Alessandro Samuel Rosa
+BR	Neossolo Litólico	2	RL	FAO/UNESCO	1974	Leptosol	1	LP			Alessandro Samuel Rosa
+BR	Neossolo Flúvico	2	RY	FAO/UNESCO	1974	Fluvisol	1	FL			Alessandro Samuel Rosa
+BR	Vertissolo	1	V	FAO/UNESCO	1974	Vertisol	1	VR			Alessandro Samuel Rosa
+BR	Cambissolo	1	C	FAO/UNESCO	1974	Cambisol	1	CM			Alessandro Samuel Rosa
+BR	Chernossolo	1	M	FAO/UNESCO	1974	Phaeozem	1	PH	Chernozem, Kastanozem, Phaeozem, Greyzem.  Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Luvissolo	1	T	FAO/UNESCO	1974	Luvisol	1	LV			Alessandro Samuel Rosa
+BR	Argissolo	1	P	FAO/UNESCO	1974	unkown	1	unkown	Alisol, Acrisol, Lixisol. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Argissolo Bruno-Acinzentado	2	PBAC	FAO/UNESCO	1974	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Alumínico	3	PAa	FAO/UNESCO	1974	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Alumínico	3	PVa	FAO/UNESCO	1974	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Alumínico	3	PVAa	FAO/UNESCO	1974	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Acinzentado Distrocoeso	3	PACdx	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Acinzentado Distrófico	3	PACd	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Alítico	3	PAal	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Distrocoeso	3	PAdx	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Distrófico	3	PAd	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Alítico	3	PVal	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Ta Distrófico	3	PVvd	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Distrófico	3	PVd	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Alítico	3	PVAal	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Ta Distrófico	3	PVAvd	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Distrófico	3	PVAd	FAO/UNESCO	1974	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Acinzentado Eutrófico	3	PACe	FAO/UNESCO	1974	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Eutrocoeso	3	PAex	FAO/UNESCO	1974	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Eutrófico	3	PAe	FAO/UNESCO	1974	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Eutroférrico	3	PVef	FAO/UNESCO	1974	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Eutrófico	3	PVe	FAO/UNESCO	1974	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Eutrófico	3	PVAe	FAO/UNESCO	1974	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Latossolo	1	L	FAO/UNESCO	1974	Ferralsol	1	FR			Alessandro Samuel Rosa
+BR	Espodossolo	1	E	FAO/UNESCO	1974	Podzol	1	PZ			Alessandro Samuel Rosa
+BR	Planossolo	1	S	FAO/UNESCO	1974	Planosol	1	PL	Planosol, Solonetz. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Planossolo Nátrico	2	SN	FAO/UNESCO	1974	Solonetz	1	SN			Alessandro Samuel Rosa
+BR	Plintossolo	1	F	FAO/UNESCO	1974	Plinthosol	1	PT			Alessandro Samuel Rosa
+BR	Gleissolo	1	G	FAO/UNESCO	1974	Gleysol	1	GL	Gleysol, Solonchak. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Gleissolo Sálico	2	GZ	FAO/UNESCO	1974	Solonchak	1	SC			Alessandro Samuel Rosa
+BR	Organossolo	1	O	FAO/UNESCO	1974	Histosol	1	HS			Alessandro Samuel Rosa
+BR	Nitossolo	1	N	FAO/UNESCO	1974	Nitisol	1	NT	Nitisol, Lixisol, Alisol. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Neossolo	1	R	FAO-WRB	2007	unkown	1	unkown	Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Neossolo Quartzarênico	2	RQ	FAO-WRB	2007	Arenosol	1	AR			Alessandro Samuel Rosa
+BR	Neossolo Regolítico	2	RR	FAO-WRB	2007	Regosol	1	RG			Alessandro Samuel Rosa
+BR	Neossolo Litólico	2	RL	FAO-WRB	2007	Leptosol	1	LP			Alessandro Samuel Rosa
+BR	Neossolo Flúvico	2	RY	FAO-WRB	2007	Fluvisol	1	FL			Alessandro Samuel Rosa
+BR	Vertissolo	1	V	FAO-WRB	2007	Vertisol	1	VR			Alessandro Samuel Rosa
+BR	Cambissolo	1	C	FAO-WRB	2007	Cambisol	1	CM			Alessandro Samuel Rosa
+BR	Chernossolo	1	M	FAO-WRB	2007	Phaeozem	1	PH	Chernozem, Kastanozem, Phaeozem. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Luvissolo	1	T	FAO-WRB	2007	Luvisol	1	LV			Alessandro Samuel Rosa
+BR	Argissolo	1	P	FAO-WRB	2007	unkown	1	unkown	Alisol, Acrisol, Lixisol. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Argissolo Bruno-Acinzentado	2	PBAC	FAO-WRB	2007	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Alumínico	3	PAa	FAO-WRB	2007	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Alumínico	3	PVa	FAO-WRB	2007	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Alumínico	3	PVAa	FAO-WRB	2007	Alisol	1	AL			Alessandro Samuel Rosa
+BR	Argissolo Acinzentado Distrocoeso	3	PACdx	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Acinzentado Distrófico	3	PACd	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Alítico	3	PAal	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Distrocoeso	3	PAdx	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Distrófico	3	PAd	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Alítico	3	PVal	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Ta Distrófico	3	PVvd	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Distrófico	3	PVd	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Alítico	3	PVAal	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Ta Distrófico	3	PVAvd	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Distrófico	3	PVAd	FAO-WRB	2007	Acrisol	1	AC			Alessandro Samuel Rosa
+BR	Argissolo Acinzentado Eutrófico	3	PACe	FAO-WRB	2007	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Eutrocoeso	3	PAex	FAO-WRB	2007	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Amarelo Eutrófico	3	PAe	FAO-WRB	2007	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Eutroférrico	3	PVef	FAO-WRB	2007	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Vermelho Eutrófico	3	PVe	FAO-WRB	2007	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Argissolo Vermelho-Amarelo Eutrófico	3	PVAe	FAO-WRB	2007	Lixisol	1	LX			Alessandro Samuel Rosa
+BR	Latossolo	1	L	FAO-WRB	2007	Ferralsol	1	FR			Alessandro Samuel Rosa
+BR	Espodossolo	1	E	FAO-WRB	2007	Podzol	1	PZ			Alessandro Samuel Rosa
+BR	Planossolo	1	S	FAO-WRB	2007	Planosol	1	PL	Planosol, Solonetz. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Planossolo Nátrico	2	SN	FAO-WRB	2007	Solonetz	1	SN			Alessandro Samuel Rosa
+BR	Plintossolo	1	F	FAO-WRB	2007	Plinthosol	1	PT			Alessandro Samuel Rosa
+BR	Gleissolo	1	G	FAO-WRB	2007	Gleysol	1	GL	Gleysol, Solonchak. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Gleissolo Sálico	2	GZ	FAO-WRB	2007	Solonchak	1	SC			Alessandro Samuel Rosa
+BR	Organossolo	1	O	FAO-WRB	2007	Histosol	1	HS			Alessandro Samuel Rosa
+BR	Nitossolo	1	N	FAO-WRB	2007	Nitisol	1	NT	Nitisol, Lixisol, Alisol. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Neossolo	1	R	Soil Taxonomy	2010	Entisol	1	unkown			Alessandro Samuel Rosa
+BR	Vertissolo	1	V	Soil Taxonomy	2010	Vertisol	1	unkown			Alessandro Samuel Rosa
+BR	Cambissolo	1	C	Soil Taxonomy	2010	Inceptisol	1	unkown			Alessandro Samuel Rosa
+BR	Chernossolo	1	M	Soil Taxonomy	2010	Molisol	1	unkown	Only those with high clay activity as defined by the Brazilian System of Soil Classification.		Alessandro Samuel Rosa
+BR	Luvissolo	1	T	Soil Taxonomy	2010	Alfisol	1	unkown	Alfisols, Aridisols (Argids). Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Argissolo	1	P	Soil Taxonomy	2010	Ultisol	1	unkown	Ultisols, Oxisols (Kandic horizon). Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Latossolo	1	L	Soil Taxonomy	2010	Oxisol	1	unkown	 		Alessandro Samuel Rosa
+BR	Espodossolo	1	E	Soil Taxonomy	2010	Spodosol	1	unkown			Alessandro Samuel Rosa
+BR	Planossolo	1	S	Soil Taxonomy	2010	Alfisol	1	unkown	Alfisols, Natr (ust-ud) alf, Albaquults, Albaqualfs, Plinthaqu(alf-ept-ox-ult). Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Plintossolo	1	F	Soil Taxonomy	2010	Oxisol	1	unkown	Plinthic subgroup of many classes, such as Oxisol, Ultisol, Alfisol, Entisol, and Inceptisol. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Gleissolo	1	G	Soil Taxonomy	2010	Entisol	1	unkown	Entisols (Aqu-alf-and-ent-ept-), Aridisols, Entisols (Aqu-sulfa-hydra-salic). Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
+BR	Organossolo	1	O	Soil Taxonomy	2010	Histosol	1	unkown			Alessandro Samuel Rosa
+BR	Nitossolo	1	N	Soil Taxonomy	2010	Ultisol	1	unkown	Ultisols, Oxisols (Kandic), Alfisols. Accurate correlation cannot be acchieved using only first level classification.		Alessandro Samuel Rosa
