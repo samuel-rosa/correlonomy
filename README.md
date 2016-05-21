@@ -4,7 +4,14 @@ This is an effort to correlate the nomenclature employed by different soil descr
 systems to help researchers in the tasks of updating, standardizing and harmonizing their databases when 
 hard soil property data is unavailable.
 
-## Rerefences
+Correlation tables are in TSV (tab separated values) files stored in folder `data/clean`. Their content is as 
+follows:
+
+* `taxonomy.tsv`: Correlation between soil taxa, including the FAO classification, US Soil Taxonomy, WRB, and
+  the Brazilian System of Soil Classification.
+* ...
+
+## References
 
 * FAO. Guidelines for soil description. Rome: Fao (Food and Agriculture Organization of the United Nations), 
   p. 97, 2006.
